@@ -13,3 +13,4 @@ SCD.sbp.dbp.MR.R: MR analysis for SBP and DBP using updated GWS SNPs (performed 
 CreatingSNPoverlapfiles.R: example script for creating file for SNPs that overlap between SCD and trait (trait=AF in this script)
 plottingahat.final.R: scripts for plotting ahat (GRSA estimate) used in paper
 varianceexplainedplots.R: scripts for creating the trait variance explained plots
+
